@@ -84,6 +84,8 @@ BEETAP_TIMEOUT=6m
 
 ## 安装为全局命令(可选)
 
+完整安装说明(作为 opencode/Claude Code 技能、全局命令、更新/卸载、常见问题)见 [`INSTALL.md`](INSTALL.md)。
+
 ```sh
 # 方式一:软链接到 PATH
 sudo ln -s "$(pwd)/bin/beetap-cli" /usr/local/bin/beetap-cli
@@ -105,6 +107,7 @@ cp -R . ~/.config/opencode/skills/beetap-cli-python
 ```
 beetap-cli-python/
 ├── SKILL.md               # 技能主体(触发条件、配置、操作流程、关键约定、排障)
+├── INSTALL.md             # 安装说明(技能/全局命令/更新卸载/常见问题)
 ├── commands.md            # 完整命令速查
 ├── README.md              # 本文件
 ├── .env.example           # 配置模板(插件端点 / 工程 / HTTP 超时)

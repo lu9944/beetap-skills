@@ -150,6 +150,7 @@ beetap-cli monitor -k '脚本已停止运行' --max-duration 2m   # 命中退出
 
 ## 参考
 
+- `INSTALL.md` — 安装说明(技能/全局命令/更新卸载/常见问题)
 - `references/beetap-cli-protocol.md` — beeTap CLI 控制端点对接协议(v1,接口权威文档)
 - `commands.md` — 完整命令速查
 - `README.md` — 仓库说明、配置与测试

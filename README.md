@@ -27,6 +27,7 @@ cp -R beetap-cli-python ~/.config/opencode/skills/
 
 - 命令: `doctor` / `status` / `projects` / `connect` / `run` / `stop` / `pause` / `resume` /
   `logs` / `monitor` / `screenshot` / `nodes` / `node-params` / `ocr` / `test-image` / `raw`
+- 安装(技能/全局命令/更新卸载/常见问题): [`beetap-cli-python/INSTALL.md`](beetap-cli-python/INSTALL.md)
 - 设备连接由 IDEA 插件单点管理(协议 v1 / 插件 1.3.10+ 起 CLI `/connect` 已禁用)
 - 接口契约: [`beetap-cli-python/references/beetap-cli-protocol.md`](beetap-cli-python/references/beetap-cli-protocol.md)
 - 用法与约定: [`beetap-cli-python/SKILL.md`](beetap-cli-python/SKILL.md)、[`beetap-cli-python/README.md`](beetap-cli-python/README.md)
