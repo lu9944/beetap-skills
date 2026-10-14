@@ -6,4 +6,4 @@
 安装/使用见同目录 README.md;接口权威文档见 references/beetap-cli-protocol.md。
 """
 
-__version__ = "1.3.10"  # 对齐协议 v1(/connect 禁用、单实例令牌 1003 等 1.3.10 行为已纳入)
+__version__ = "1.0.0"  # 技能自身版本(与插件版本解耦;插件/协议兼容范围见 SKILL.md metadata)

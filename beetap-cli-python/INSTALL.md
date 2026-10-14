@@ -62,7 +62,7 @@ pip install .
 验证:
 
 ```sh
-beetap-cli --version     # 应输出 beetap-cli 1.3.10
+beetap-cli --version     # 应输出 beetap-cli 1.0.0
 beetap-cli doctor        # 六项环境检查
 ```
 

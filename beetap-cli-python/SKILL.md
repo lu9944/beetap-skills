@@ -10,6 +10,7 @@ description: >-
 compatibility: opencode
 metadata:
   tool: beetap-cli
+  version: 1.0.0
   plugin: BeeTap IDEA 插件
   language: python
   protocol: v1
