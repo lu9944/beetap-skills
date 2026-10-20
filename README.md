@@ -4,7 +4,7 @@ BeeTap 相关技能集合(opencode / Agent Skills)。
 
 | 技能 | 说明 |
 |---|---|
-| [`beetap-cli-python`](beetap-cli-python/) | 遥控 BeeTap IDEA 插件调试安卓真机的命令行工具(纯 Python 标准库,协议 v1 / 插件 1.3.10+) |
+| [`beetap-cli-python`](beetap-cli-python/) | 遥控 BeeTap IDEA 插件调试安卓真机的命令行工具(纯 Python 标准库,协议 v1 / 插件 1.0.0+) |
 
 ## 安装(opencode)
 
